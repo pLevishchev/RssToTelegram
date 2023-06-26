@@ -12,8 +12,8 @@ This bot fetches updates from specified RSS feeds and sends them to a Telegram c
 1. **Clone this repository:**
 
     ```console
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/pLevishchev/RssToTelegram.git
+    cd RssToTelegram
     ```
 
 2. **Set up your configuration:**
