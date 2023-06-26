@@ -1,0 +1,5 @@
+isodate
+requests
+feedparser
+python-dateutil
+configparser
